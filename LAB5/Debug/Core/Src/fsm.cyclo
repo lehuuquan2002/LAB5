@@ -1,0 +1,4 @@
+../Core/Src/fsm.c:28:5:isCmdEqualToRST	5
+../Core/Src/fsm.c:35:5:isCmdEqualToOK	4
+../Core/Src/fsm.c:41:6:command_parser_fsm	12
+../Core/Src/fsm.c:82:6:uart_communication_fsm	6
